@@ -1,3 +1,2 @@
 # studylab
-# this is readme file
-# Hello world!
+# This is a Capstone project 
